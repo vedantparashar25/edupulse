@@ -1,0 +1,5 @@
+﻿bin/
+*.class
+*.tmp
+.DS_Store
+Thumbs.db
