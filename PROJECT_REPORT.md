@@ -12,10 +12,11 @@
 - **Student Name**: Vedant Parashar
 - **Student Registration Number**: 25BAI11290
 - **Degree / Programme**: B.Tech. in Computer Science & Engineering (AIML / Core)
+- **Academic Term**: Fall Semester 2026-27
 - **Institution**: Vellore Institute of Technology (VIT Bhopal University)
 - **Learning Platform**: VITyarthi Learning Destination
 - **Submission Date**: September 2026
-- **GitHub Repository**: https://github.com/vedant-parashar/edupulse
+- **GitHub Repository**: https://github.com/vedantparashar25/edupulse
 - **Execution Mode**: Standalone Terminal Command-Line Interface (CLI)
 
 ---
@@ -475,5 +476,5 @@ The testing strategy follows a layered test pyramid approach implemented in `Edu
 1. Bloch, Joshua. *Effective Java (3rd Edition)*. Addison-Wesley Professional, 2018.
 2. Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley, 1994.
 3. Oracle Corporation. *Java SE 21 & 26 Documentation: The Java Tutorials & Concurrency Utilities*. https://docs.oracle.com/en/java/
-4. VIT Bhopal University. *Academic Regulations & Flipped Classroom Curriculum Guidelines*. VIT Bhopal, 2025-2026.
+4. VIT Bhopal University. *Academic Regulations & Flipped Classroom Curriculum Guidelines*. VIT Bhopal, 2026-2027.
 5. VITyarthi Learning Destination. *Evaluated Course Project Problem Statement & Submission Rubric*. 2026.
